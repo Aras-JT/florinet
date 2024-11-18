@@ -22,3 +22,7 @@
    ```
    php artisan queue:work --queue=products
    ```
+7. Do not forget to add the API KEY to the .ENV-file
+   ```
+   FLORINET_API_KEY=
+   ```
